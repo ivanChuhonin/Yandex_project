@@ -54,4 +54,4 @@
 
 ![Иллюстрация к проекту](https://github.com/ivanChuhonin/Yandex_project/blob/main/png_files/2024-02-28_21-00-23.png)
 
-Check [ver2](https://github.com/ivanChuhonin/Yandex_project/tree/ver2) for more
+Check [main branch](https://github.com/ivanChuhonin/Yandex_project/tree/main) for more
