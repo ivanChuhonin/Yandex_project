@@ -1,0 +1,5 @@
+# Kaggle API credentials, used to download the geo-reviews-dataset-2023 dataset.
+# Get them at https://www.kaggle.com/settings/api ("Create New Token").
+# Copy this file to .env and fill in your own values — .env is gitignored.
+KAGGLE_USERNAME=
+KAGGLE_KEY=
